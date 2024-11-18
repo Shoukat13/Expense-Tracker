@@ -1,0 +1,1 @@
+A modern and intuitive Expense Tracker App built using React. This app helps you seamlessly manage your expenses by tracking, categorizing, and visualizing your financial data. Designed as a personal project to demonstrate my skills in React and front-end development.
